@@ -19,33 +19,32 @@ Installation
   https://docs.backdropcms.org/documentation/extend-with-modules.
 
 
-Documentation <!-- Do not include if you have not created a wiki page. -->
+Documentation
 -------------
 
 Additional documentation is located in [the Wiki](https://github.com/backdrop-contrib/apachesolr_og/wiki/Documentation).
 
-Issues <!-- This section is required. -->
+Issues 
 ------
 
 Bugs and feature requests should be reported in [the Issue Queue](https://github.com/backdrop-contrib/apachesolr_og/issues).
 
-Current Maintainers <!-- This section is required. -->
+Current Maintainers
 -------------------
 
 - [Giant Rabbit](https://github.com/giant-rabbit).
-<!-- You may also wish to add: -->
+
 - Seeking additional maintainers.
 
-Credits <!-- This section is required. -->
+Credits
 -------
 
 - Ported to Backdrop CMS by [Giant Rabbit](https://github.com/giant-rabbit).
 - Porting to Backdrop CMS development sponsored by [USENIX](https://www.usenix.org/).
 - Originally written for Drupal by [Peter Wolanin (pwolanin)](https://git.drupalcode.org/pwolanin).
 - Based on [Apache Solr Organic Groups](https://www.drupal.org/project/apachesolr_og).
-- Inital Drupal development sponsored by [MiniCorp](https://minicorp.example.com)
 
-License <!-- This section is required. -->
+License
 -------
 
 This project is GPL v2 software.
