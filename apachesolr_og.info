@@ -2,7 +2,6 @@ type = module
 name = Apache Solr Organic Groups
 description = Integrates Organic Groups and Apache Solr Search
 package = Apache Solr
-core = 7.x
 backdrop = 1.x
 
 dependencies[] = apachesolr
