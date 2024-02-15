@@ -39,9 +39,13 @@ Current Maintainers
 Credits
 -------
 
-- Ported to Backdrop CMS by [Giant Rabbit](https://github.com/giant-rabbit).
+- Ported to Backdrop CMS by [Lauren Blais](https://github.com/rlblais),[Giant Rabbit](https://github.com/giant-rabbit).
 - Porting to Backdrop CMS development sponsored by [USENIX](https://www.usenix.org/).
-- Originally written for Drupal by [Peter Wolanin (pwolanin)](https://git.drupalcode.org/pwolanin).
+- Originally written for Drupal and co-maintained by [Peter Wolanin (pwolanin)](https://git.drupalcode.org/pwolanin).
+- Drupal 7 version co-maintained by:
+  - [Nick Veenhof (Nick_vh)](https://www.drupal.org/u/nick_vh)
+  - [Yuriy Gerasimov (ygerasimov)](https://www.drupal.org/u/ygerasimov)
+  - [Erich Beyrent (ebeyrent)](https://www.drupal.org/u/ebeyrent)
 - Based on [Apache Solr Organic Groups](https://www.drupal.org/project/apachesolr_og).
 
 License
