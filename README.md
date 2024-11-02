@@ -9,7 +9,7 @@ Requirements
 
 This module requires that the following modules are also enabled:
 
- * [Apache Solr - to be ported](https://www.drupal.org/project/apachesolr)
+ * [Apache Solr](https://github.com/backdrop-contrib/apachesolr)
  * [Organic Groups](https://backdropcms.org/project/og)
 
 Installation
@@ -19,11 +19,6 @@ Installation
   https://docs.backdropcms.org/documentation/extend-with-modules.
 
 
-Documentation
--------------
-
-Additional documentation is located in [the Wiki](https://github.com/backdrop-contrib/apachesolr_og/wiki/Documentation).
-
 Issues 
 ------
 
@@ -32,9 +27,9 @@ Bugs and feature requests should be reported in [the Issue Queue](https://github
 Current Maintainers
 -------------------
 
-- [Giant Rabbit](https://github.com/giant-rabbit).
+- [Eli Lisseck](https://github.com/elisseck).
+- [Anthony Nemirovsky](https://github.com/anemirovsky).
 
-- Seeking additional maintainers.
 
 Credits
 -------
